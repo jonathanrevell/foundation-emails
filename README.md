@@ -9,6 +9,8 @@
 
 Foundation for Emails (previously known as Ink) is a framework for creating responsive HTML emails that work in any email client &mdash; even Outlook. Our HTML/CSS components have been tested across every major email client to ensure consistency. And with the [Inky](https://github.com/zurb/inky) templating language, writing HTML emails is now even easier.
 
+**Adds pug support to the original**
+
 ## Getting Started
 
 The main way to get started is with our [email template stack](https://github.com/zurb/foundation-emails-template). To use the stack, you'll need [Node.js](https://nodejs.org/en/) installed on your machine.
